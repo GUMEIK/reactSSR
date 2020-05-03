@@ -1,0 +1,27 @@
+{
+  "name": "reactSSR",
+  "version": "1.0.0",
+  "description": "next的学习和使用",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 2004",
+    "build": "next build",
+    "start": "next start -p 2004"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GUMEIK/reactSSR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GUMEIK/reactSSR/issues"
+  },
+  "homepage": "https://github.com/GUMEIK/reactSSR#readme",
+  "dependencies": {
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
