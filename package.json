@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next -p 2004",
     "build": "next build",
-    "start": "next start -p 2004"
+    "start": "next start -p 2004",
+    "server":"node node_modules/.bin/next start -p 2004"
   },
   "repository": {
     "type": "git",
